@@ -1,0 +1,29 @@
+{
+  "name": "pertemuan-03-nov-2025-milhambintang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milhambintang/pertemuan-03-Nov-2025-MIlhamBintang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milhambintang/pertemuan-03-Nov-2025-MIlhamBintang/issues"
+  },
+  "homepage": "https://github.com/milhambintang/pertemuan-03-Nov-2025-MIlhamBintang#readme",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
